@@ -1,5 +1,5 @@
 # draws a square spiral shape
-# open paint or any such app and place mouse over it and then run this python program
+# open paint or any such drawing app and place mouse over it and then run this python program
 
 import pyautogui
 
